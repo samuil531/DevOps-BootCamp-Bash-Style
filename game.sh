@@ -45,5 +45,5 @@ while [ $ch -ne 3 ]; do
     echo "HELP: INSTRUCTIONS TO PLAY THE GAME. "
   else
     break
-  fi
+fi
 done
