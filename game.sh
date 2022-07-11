@@ -1,3 +1,4 @@
+#!/bin/bash
 echo -e "\n NumberJack \n"
 ch=0
 
